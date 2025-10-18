@@ -1,1 +1,3 @@
-<!-- No changes to README.md as it was not provided in the attachments or explicitly requested to be changed. -->
+# CAPTCHA Solver
+
+This is a simple web-based CAPTCHA solver application.
